@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "HelloWorld",
+  "sourceName": "contracts/HelloWorld.sol",
+  "abi": [],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea2646970667358221220f691df1abdd6f922d0ec365dce8e8e06644ae4bdc9ff456be68c82861d338ef164736f6c63430008110033",
+  "deployedBytecode": "0x6080604052600080fdfea2646970667358221220f691df1abdd6f922d0ec365dce8e8e06644ae4bdc9ff456be68c82861d338ef164736f6c63430008110033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
